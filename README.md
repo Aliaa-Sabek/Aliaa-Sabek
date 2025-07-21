@@ -61,3 +61,6 @@ Always exploring ways to make apps more **alive** and **useful** 💡
 [![Twitter](https://img.shields.io/badge/Twitter-@a__sabek-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/a__sabek?s=21)
 
 ---
+
+![snake gif](https://github.com/Aliaa-Sabek/Aliaa-Sabek/blob/output/github-contribution-grid-snake.svg)
+
