@@ -1,28 +1,18 @@
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/1599d7107019725.5f9d3c7bae636.gif" align="center"/>
+
 <div align="center">
-
-<a href="https://www.behance.net/gallery/107019725/Halloween-Chill">
-
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif" width="100%" alt="Aliaa Sabek Banner"/>
-
-</a>
-
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=25&duration=3000&pause=1000&color=BC436B&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aliaa+Mahmoud+Sabek;Flutter+Developer+📱;Artificial+Intelligence+Enthusiast+🤖;Computer+Science+Graduate+🎓;Always+Learning+Something+New+✨)](https://git.io/typing-svg)
 
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=Aliaa-Sabek&style=for-the-badge&color=BC436B"/>
-
 <img src="https://img.shields.io/github/followers/Aliaa-Sabek?style=for-the-badge&color=BC436B"/>
-
 <img src="https://img.shields.io/github/stars/Aliaa-Sabek?style=for-the-badge&color=BC436B"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 Computer Science Graduate.
 - 📱 Flutter Developer passionate about creating modern mobile applications.
@@ -33,27 +23,27 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-### Mobile Development
+**Mobile Development**
 
 <img src="https://skillicons.dev/icons?i=flutter,dart"/>
 
-### Backend
+**Backend**
 
 <img src="https://skillicons.dev/icons?i=dotnet"/>
 
-### Database
+**Database**
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-### Programming Languages
+**Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp"/>
 
-### Tools
+**Tools**
 
 <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,androidstudio,figma,postman"/>
 
@@ -61,19 +51,18 @@
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aliaa-Sabek&show_icons=true&theme=radical&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliaa-Sabek&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -83,7 +72,7 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -93,7 +82,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -103,7 +92,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -113,20 +102,18 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aliaa-sabek-807450254/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 <a href="https://github.com/Aliaa-Sabek">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 <a href="https://x.com/a__sabek">
-<img src="https://skillicons.dev/icons?i=twitter"/>
+  <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
 </div>
