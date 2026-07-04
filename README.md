@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=25&duration=3000&pause=1000&color=BC436B&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aliaa+Mahmoud+Sabek;Flutter+Developer+📱;Artificial+Intelligence+Enthusiast+🤖;Computer+Science+Graduate+🎓;Always+Learning+Something+New+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=25&duration=3000&pause=1000&color=BC436B&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aliaa+Mahmoud+Sabek;Flutter+Developer+📱;AI+%26+Data+Science+Enthusiast+🤖;Computer+Science+Graduate+🎓;Always+Learning+Something+New+✨)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Aliaa-Sabek&style=for-the-badge&color=BC436B"/>
 <img src="https://img.shields.io/github/followers/Aliaa-Sabek?style=for-the-badge&color=BC436B"/>
@@ -15,11 +15,12 @@
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science Graduate.
-- 📱 Flutter Developer passionate about building modern mobile applications.
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision.
-- ⚙️ Experienced with Flutter, ASP.NET Core, SQL Server, Firebase, REST APIs, and Clean Architecture.
+- 📱 Flutter Developer passionate about building cross-platform mobile applications.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, Computer Vision, and Data Science.
+- 📊 Experienced in Data Analysis, Data Visualization, and Predictive Modeling.
+- ⚙️ Skilled in Flutter, ASP.NET Core, SQL Server, Firebase, REST APIs, and Clean Architecture.
 - 💡 I enjoy transforming ideas into smart, scalable, and user-friendly applications.
-- 🌱 Currently expanding my backend, AI, and software engineering skills.
+- 🌱 Currently learning advanced AI, Data Science, and Backend Development.
 
 ---
 
@@ -39,21 +40,19 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,firebase"/>
 
-### 🤖 AI & Machine Learning
+### 🤖 Artificial Intelligence
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
 
-**Machine Learning • Computer Vision • Scikit-learn • Pandas • NumPy • Tkinter • Data Analysis**
+### 📊 Data Science
+
+**Machine Learning • Deep Learning • Data Analysis • Data Visualization • Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook • Tkinter**
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css"/>
 
-### 🌐 Web
-
-<img src="https://skillicons.dev/icons?i=html,css"/>
-
-### 🛠 Tools
+### 🛠 Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma,postman"/>
 
@@ -125,9 +124,9 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💜 Thanks for visiting my profile!
 
-*"Building intelligent mobile experiences with Flutter & AI."*
+*"Transforming ideas into intelligent mobile experiences with Flutter, AI & Data Science."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BC436B&height=120&section=footer"/>
 
