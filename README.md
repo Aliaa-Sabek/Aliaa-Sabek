@@ -15,11 +15,11 @@
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science Graduate.
-- 📱 Flutter Developer passionate about creating modern mobile applications.
+- 📱 Flutter Developer passionate about building modern mobile applications.
 - 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision.
-- ⚙️ Experienced with Flutter, ASP.NET Core, SQL Server, Firebase, and REST APIs.
+- ⚙️ Experienced with Flutter, ASP.NET Core, SQL Server, Firebase, REST APIs, and Clean Architecture.
 - 💡 I enjoy transforming ideas into smart, scalable, and user-friendly applications.
-- 🌱 Currently expanding my backend and software engineering skills.
+- 🌱 Currently expanding my backend, AI, and software engineering skills.
 
 ---
 
@@ -27,25 +27,35 @@
 
 <div align="center">
 
-**Mobile Development**
+### 📱 Mobile Development
 
 <img src="https://skillicons.dev/icons?i=flutter,dart"/>
 
-**Backend**
+### 💻 Backend
 
 <img src="https://skillicons.dev/icons?i=dotnet"/>
 
-**Database**
+### 🗄️ Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
 
-**Programming Languages**
+### 🤖 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
 
-**Tools**
+**Machine Learning • Computer Vision • Scikit-learn • Pandas • NumPy • Tkinter • Data Analysis**
 
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,androidstudio,figma,postman"/>
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js"/>
+
+### 🌐 Web
+
+<img src="https://skillicons.dev/icons?i=html,css"/>
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma,postman"/>
 
 </div>
 
@@ -56,6 +66,7 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aliaa-Sabek&show_icons=true&theme=radical&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliaa-Sabek&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
@@ -82,16 +93,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aliaa-Sabek&theme=radical&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -107,13 +108,15 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aliaa-sabek-807450254/">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
 <a href="https://github.com/Aliaa-Sabek">
-  <img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
 <a href="https://x.com/a__sabek">
-  <img src="https://skillicons.dev/icons?i=twitter"/>
+<img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
 </div>
